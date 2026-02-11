@@ -22,7 +22,7 @@ Demo project created for the Junior IAM Analyst role application.
 
 **Impact:** Reduces provisioning time from 90 minutes to under 10 minutes per user.
 
-**Estimated ROI:** ~400 hours/year saved (~$20,000 in labor costs)
+**Estimated ROI:** ~ 400 hours/year saved (~$20,000 in labor costs)
 
 ---
 
